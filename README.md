@@ -6,3 +6,5 @@ I got tired of pasting the same system prompts into the web UI. This is a tiny C
 
 pip install -r requirements.txt
 
+
+<!-- last-checked: 2026-10-04 -->
